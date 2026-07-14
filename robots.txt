@@ -1,0 +1,8 @@
+# robots.txt
+# Free Thumbnail Downloader
+# https://ytthumbnaildownloader-5rs.pages.dev/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ytthumbnaildownloader-5rs.pages.dev/sitemap.xml
