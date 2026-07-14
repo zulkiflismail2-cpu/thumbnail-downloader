@@ -1,0 +1,10 @@
+{
+  "name": "Free Thumbnail Downloader",
+  "short_name": "Thumbnail",
+  "description": "Download YouTube video thumbnails in HD for free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": []
+}
