@@ -27,10 +27,5 @@
         <priority>0.7</priority>
     </url>
 
-    <url>
-        <loc>https://ytthumbnaildownloader-5rs.pages.dev/404.html</loc>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
 
 </urlset>
